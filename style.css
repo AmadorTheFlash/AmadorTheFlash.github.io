@@ -24,13 +24,22 @@ header ul{
     color:#ffffff;
 }
 
+    .dark{
+        padding:15px;
+        background:#70000;
+        color:#ffffff;
+        margin-top:10px;
+        margin-bottom:10px;
+        
+    }
+
 /*header**/
 header{
     background:#ffffff;
     color:#f70000;
     padding-top:30px;
     min-height:70%;
-    border-bottom:#f4f4f4 3px solid;
+    border-bottom:#86ff30 3px solid;
 }
 
 header a{
