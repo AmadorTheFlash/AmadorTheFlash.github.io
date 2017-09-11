@@ -25,7 +25,7 @@ header ul{
 }
 
     .dark{
-        padding:1px;
+        padding:10px;
         background:#86ff30;
         color:#ffffff;
         margin-top:10px;
@@ -142,11 +142,28 @@ aside#sidebar{
     margin-top: 10px;
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarae{
+    width:90%;
+    padding:5px;
+    
+}
+
 /*main-col*/
 article#main-col{
     float:left;
     width:65%;
 }
+
+/*Services*/
+ul#services li{
+    list-style: none;
+    padding: 20px;
+    border:#cccccc solid 1px;
+    margin-bottom: 5px;
+    background:#35424a;
+
+}
+    
 
 
 
